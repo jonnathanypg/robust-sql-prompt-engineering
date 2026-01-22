@@ -122,8 +122,6 @@ El prompt implementa **9 reglas de seguridad** para garantizar operación segura
 | **"SUV" / "Todoterreno"** | `suv` | EXCLUYE Truck |
 | **"Carro" / "Vehículo"** | Sin filtro | Muestra TODO el inventario |
 
-> ⚠️ **CRÍTICO**: "Auto" NO significa "vehículo en general". Si el usuario dice "busco un auto", se filtran SOLO Sedan y Hatchback.
-
 ### 4.3 Limitaciones del Schema (Prevención de Alucinaciones)
 
 El prompt define explícitamente lo que **NO existe**:
