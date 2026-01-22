@@ -256,7 +256,7 @@ cd robust-sql-prompt-engineering
 Importa `seed_data.sql` para crear la tabla `inventory`:
 
 ```bash
-mysql -u tu_usuario -p tu_base_de_datos < seed_data.sql
+mysql -h tu_host -P 3306 -u tu_usuario -p tu_base_de_datos < seed_data.sql
 ```
 
 ### Paso 3: Configurar Variables de Entorno
