@@ -6,7 +6,7 @@ Este repositorio contiene la solución al desafío técnico para el rol de AI Sp
 
 Puedes ver una demostración técnica de la robustez y seguridad del agente aquí:
 
-https://github.com/jonnathanypg/robust-sql-prompt-engineering/video-demo-prueba.mp4
+https://github.com/user-attachments/assets/06c7cd93-422d-4855-bbb2-2001677752c7
 
 ---
 
