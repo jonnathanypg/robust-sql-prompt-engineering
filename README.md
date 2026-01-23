@@ -274,7 +274,7 @@ DB_NAME=tu_base_de_datos
 DB_USER=tu_usuario
 DB_PASSWORD=tu_contraseña
 OPENAI_API_KEY=tu_api_key
-OPENAI_MODEL=gpt-4o-mini
+OPENAI_MODEL=gpt-5-nano
 ```
 
 ### Paso 4: Instalar Dependencias
